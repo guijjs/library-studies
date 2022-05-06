@@ -1,4 +1,4 @@
-[200~# Welcome to my Library Management with JS
+Welcome to my Library Management with JS
 
 Hello there! This is my little project with JS, to manage libraries. It's working only on console, but I've plans to implements with a page written in HTML5/CSS3
 
